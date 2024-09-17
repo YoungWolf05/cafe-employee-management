@@ -31,7 +31,7 @@ Access Swagger page from localhost:400/api
 To stop the application, use the following command:
 
 ```sh
-docker-compose down
+docker compose down
 ```
 
 This command will stop and remove the containers created by `docker compose up`.
